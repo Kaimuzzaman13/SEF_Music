@@ -1,0 +1,11 @@
+569MMMRR_%,Test Artist1,Melbourne|Victoria|Australia,05-11-1980,Music enthusiast with great hits is very good person real.,Singer;Songwriter,pop;classical;jazz,2022, Best Song Written For Visual Media
+569MMMRR_%,Test Artist1,Melbourne|Victoria|Australia,05-11-1980,Music enthusiast with great hits is very good person real.,Singer;Songwriter,pop;classical;jazz,2022, Best Song Written For Visual Media
+569MMMRR_%,Test Artist1,Melbourne|Victoria|Australia,05-11-1980,Music enthusiast with great hits is very good person real.,Singer;Songwriter,pop;classical;jazz,2022, Best Song Written For Visual Media
+959AMMRR_$,Test Artist2,Melbourne|Victoria|Australia,05-11-1989,Music enthusiast with great hits is very good person real.,Musician;Songwriter,jazz;pop;classical,2022, Best Song Written For Visual Media
+979ASZRR_$,Test Artist1,Melbourne|Victoria|Australia,05-11-1980,Music enthusiast with great hits is very good person real.,Singer;Songwriter,pop;classical;jazz,2022, Best Song Written For Visual Media
+979ASZRR_$,Test Artist1,Melbourne|Victoria|Australia,05-11-1980,Music enthusiast with great hits is very good person real.,Singer;Songwriter,pop;classical;jazz,2022, Best Song Written For Visual Media
+999ZMMRR_$,Test Artist2,Sydney|New South Wales|Australia,05-11-1989,Music enthusiast with great hits is very good person real.,Musician;Songwriter,jazz;pop;classical,2022, Best Song Written For Visual Media
+979ASZRR_$,Test Artist1,ictoria|Melbourne|VAustralia,05-11-1980,Music enthusiast with great hits is very good person real.,Singer;Songwriter,pop;classical;jazz,2022, Best Song Written For Visual Media
+999ZMMRR_$,Test Artist2,Australia|New South Wales|Sydney,05-11-1989,Music enthusiast with great hits is very good person real.,Musician;Songwriter,jazz;pop;classical,2022, Best Song Written For Visual Media
+569MMMRR_%,Test Artist1,Melbourne|Victoria|Australia,05-11-1980,Music enthusiast with great hits is very good person real.,Singer;Songwriter,pop;classical;jazz,2022, Best Song Written For Visual Media
+959AMMRR_$,Test Artist2,Melbourne|Victoria|Australia,05-11-1989,Music enthusiast with great hits is very good person real.,Musician;Songwriter,jazz;pop;classical,2022, Best Song Written For Visual Media
